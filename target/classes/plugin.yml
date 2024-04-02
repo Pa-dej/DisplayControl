@@ -1,0 +1,4 @@
+name: DisplayControl
+version: '1.0-SNAPSHOT'
+main: me.padej.displaycontrol.DisplayControl
+api-version: '1.20'

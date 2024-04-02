@@ -1,0 +1,4 @@
+name: DisplayControl
+version: '${project.version}'
+main: me.padej.displaycontrol.DisplayControl
+api-version: '1.20'
